@@ -1,0 +1,6 @@
+# 全新UI易支付第三方支付系统多用户整合免签支付接口api支付源码
+
+店所有源码免费更新！<br>购买源码前。请加客服QQ1218898720拿演示站测试！<br>后台http://example.com/admin<br>账号admin密码联系客服<br>前台http://example.com<br>（演示站源码跟发货的源码是一致的，购买即认同此源码的完整性）<br>源码都是自动发货如果连接有问题失效就耐心等待客服回复客服看到会在时间回复<br>新码源码保证源码都可上线运营<br>不懂技术我们可以有偿提供一条龙服务<br>易支付自动赚钱源码简约的UI交互体验可以给您一个体验度极高的商户后台，更好的下单体验，零门槛注册，即刻打开致富之门<br>为商家及其买家提供便捷、绿色、安全、快速的下款和购买体验<br>安装说明：<br>一、将您的网站程序上传至根目录，并且访问install进行安装。<br>二、登录您的后台，并且设置支付接口（支付宝即时到账）为AiLePay接口。<br>本程序已对接支付，支付宝是单笔秒到账，QQ和微信另外对接了其他接口。<br>第三方易支付在线支付系统，支持多商户注册对接发卡网API支付稳定可自用可作为代收款运营内置易支付SDK方便用户对接。<br>压缩包带简单的安装说明代码经过优化去除了一些无用的文件<br>可以用来搭建属于你自己的一个支付平台给没有支付接口的用户使用，收取接口费用，做支付接口的企业可以拿来配置使用！<br>注：购买前请看清楚,源码店主亲测可用，源码有可复制性，一经售出概不退款。<br>请先测试好在下单，可反复测试没问题在拍下哦<br>源码仅供学习不得用于其他用途，否则后果一切自负哦<br><br><br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/gVsLp" style="color: red;">https://mega-file.org/gVsLp</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
